@@ -12,7 +12,7 @@
     <artifactId>wineify-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>wineify-api</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Backend REST API for Wineify Wine Cataloging App</description>
 
     <properties>
         <java.version>11</java.version>
